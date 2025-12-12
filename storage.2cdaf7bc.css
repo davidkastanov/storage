@@ -1,0 +1,55 @@
+body {
+  background: #f5f5f5;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  border: 1px solid #bbb;
+  border-radius: 6px;
+  width: 100%;
+  margin: 6px 0;
+  padding: 10px;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background: #07f;
+  border: none;
+  border-radius: 6px;
+  margin: 8px 0;
+  padding: 10px 14px;
+}
+
+button:hover {
+  background: #005fd4;
+}
+
+.form-container {
+  background: #fff;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 6px #0000001a;
+}
+
+.contact {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin: 12px 0;
+  padding: 12px;
+  box-shadow: 0 2px 4px #0000000d;
+}
+
+.contact button {
+  background: #ff5252;
+  margin-right: 5px;
+}
+
+.contact button:first-of-type {
+  background: orange;
+}
+/*# sourceMappingURL=storage.2cdaf7bc.css.map */
